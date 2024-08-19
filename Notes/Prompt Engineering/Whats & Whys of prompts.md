@@ -1,1 +1,5 @@
+## What & Whys of Prompt
+In simple terms, LLMs are ‘token generators’. Tokens are units of text, such as words, characters or subwords, processed by a language model during training and inference. Trained on a vast corpus of text data, language models excel at learning underlying patterns, structures, rules of languages, and a significant amount of factual information using statistical methods which are then stored as the model's parameters, which may typically range from few million to billions. With such large parameters, these models become adept at predicting the next token for a given set of input tokens. The model generates subsequent tokens that are most likely to follow based on the patterns and structures it learned during training. This process is known as ‘text-continuation’ or ‘completion’.
+
+In a nutshell, for an LLM like ChatGPT, prompts act as the initial instructions or cues that guide the model’s understanding and steer it to generate the most probable token/ text that completes the prompt according to the specified instruction.
 
