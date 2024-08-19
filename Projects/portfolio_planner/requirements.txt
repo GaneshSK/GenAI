@@ -1,0 +1,4 @@
+openai==0.27.0
+pandas==1.5.3
+numpy==1.24.2
+google-colab==1.0.0
